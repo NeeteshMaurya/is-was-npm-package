@@ -1,0 +1,1 @@
+# is-was-npm-package
